@@ -1,0 +1,22 @@
+#contenedor div{
+    padding: 12px;
+    width: 352px;
+    margin-top: 10px;
+}
+
+.card-body button{
+    width: 328px;
+}
+
+body{
+    background-color: rgb(214, 224, 240);
+}
+
+div{
+    text-align: center;
+}
+
+input{
+    margin-left: 200px;
+}
+
